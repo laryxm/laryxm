@@ -29,6 +29,7 @@ AI tooling isn't just what I ship for others; it's how I work.
 
 | Project | What it is |
 |---|---|
+| [**dbx-lab-unity-ai-gateway**](https://github.com/laryxm/dbx-lab-unity-ai-gateway) | Hands-on POC for the **Unity AI Gateway** — governing external and Databricks-served models, MCP servers, model routing, guardrails, and skills as tools. Notebooks organized by pillar (observability, MCP, routing, guardrails, skills), with success criteria and a POC framework. Fully parameterized, synthetic data. |
 | [**dbx-gov-access-lens**](https://github.com/laryxm/dbx-gov-access-lens) | Databricks App for centralized access governance — shows *what* a user/group can access and *where each grant comes from* (direct, group, or nested group), reading only system tables and native APIs. |
 | [**databricks-agent-lakehouse-demo**](https://github.com/laryxm/databricks-agent-lakehouse-demo) | End-to-end GenAI agent on the Lakehouse: ingestion → Vector Search → RLS governance → Mosaic AI Agent → MLflow evaluation → Model Serving → Databricks App, with Terraform infra. Synthetic data. |
 
